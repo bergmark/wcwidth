@@ -23,6 +23,7 @@ flag split-base
 flag cli
   description                 : Enable command line tool.
   default                     : False
+  manual                      : True
 
 
 library
